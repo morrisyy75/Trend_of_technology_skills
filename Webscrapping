@@ -1,0 +1,10 @@
+#this url contains the data you need to scrape
+url = "https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html"
+
+import requests
+from bs4 import BeautifulSoup as bsp
+
+data = requests.get(url).text
+soup = bsp(data,'html.parser')
+
+table = soup.find('table')
