@@ -1,4 +1,4 @@
-Trend of technology skills
+Project title: Trend of technology skills
 
 Introduction:
 Importance of technology skills have been outweighed in job requirement, to remain competitive and keep pace with the changing technology,
