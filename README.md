@@ -22,5 +22,4 @@ Employees level of technology education and training data will be collected by w
 
 #Data Visualisation
 
-Implication
 
