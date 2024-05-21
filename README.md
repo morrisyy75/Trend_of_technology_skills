@@ -17,9 +17,10 @@ Job posting data will be collected by requesting the github job posting api.
 Employees level of technology education and training data will be collected by webscrapping from the Survey from the website Stack Overflow 
 
 ##Data analysis
+refer to the pptx uploaded
 
 #Results
-
+refer to the pptx uploaded
 #Data Visualisation
-
+refer to the pptx uploaded
 
